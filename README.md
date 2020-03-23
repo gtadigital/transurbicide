@@ -2,4 +2,5 @@
 
 Project folder
 
-* Mapping: contains all the mapping files 
+* Mapping folder: contains all the mapping files
+* Script: contains the script to parse XML to SKOS 
